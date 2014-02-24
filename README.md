@@ -10,7 +10,7 @@
   * ICUNormalizer2Filter
   * CJKBigramFilter
   * StopFilter (StopAnalyzer.ENGLISH_STOP_WORDS_SET)
-  * ShingleFiler
+  * ShingleFilter
 
 ## Test input:
 ```java
